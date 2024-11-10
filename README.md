@@ -19,4 +19,4 @@ Fator de Múltiplas Unidades (MUF): Integra o método de Boldon e Sabharwall (20
 Cálculo do Fator de Escala: Utiliza dados do reator Angra 3 e aplica a metodologia de Carvalho e Sauer (2011) para escalonar os custos entre reatores.
 
 
-[Download](https://github.com/kaesujo/PROVES/releases)
+[Download](https://github.com/kaesujo/PROVES/releases/download/Release/PROVES_SFX.exe)
