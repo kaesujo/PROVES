@@ -17,3 +17,6 @@ Funcionalidades
 Estimativa de Custos: Calcula custos com base na curva de aprendizado usando dados das publicações da NETL (2009, 2013).
 Fator de Múltiplas Unidades (MUF): Integra o método de Boldon e Sabharwall (2014) para avaliar o impacto de múltiplas unidades de reator.
 Cálculo do Fator de Escala: Utiliza dados do reator Angra 3 e aplica a metodologia de Carvalho e Sauer (2011) para escalonar os custos entre reatores.
+
+
+[Download](https://github.com/kaesujo/PROVES/releases)
